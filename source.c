@@ -1,3 +1,4 @@
+/* Some cool comments here */
 #include <stdio.h>
 
 int main(void)
